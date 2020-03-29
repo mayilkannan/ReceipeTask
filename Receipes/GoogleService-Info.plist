@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>722670496745-ca30hn333h0kan0d2pe196pl040q6b7a.apps.googleusercontent.com</string>
+	<string>67983673460-r3s8vpcobre4i84p4q1k2m5tiakf546l.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.722670496745-ca30hn333h0kan0d2pe196pl040q6b7a</string>
+	<string>com.googleusercontent.apps.67983673460-r3s8vpcobre4i84p4q1k2m5tiakf546l</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAtic52zZIeTDsg0Nzx0pdNnjqAHAw2BW0</string>
+	<string>AIzaSyDREPHGUfM9wu15odEZKBthtyBKpd7-GNA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>722670496745</string>
+	<string>67983673460</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.kannan.Receipes</string>
 	<key>PROJECT_ID</key>
-	<string>receipe-6d31e</string>
+	<string>receipes-a8034</string>
 	<key>STORAGE_BUCKET</key>
-	<string>receipe-6d31e.appspot.com</string>
+	<string>receipes-a8034.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:722670496745:ios:3d1802cd8cad00ce027978</string>
+	<string>1:67983673460:ios:e8348fe2bebc3962316921</string>
 	<key>DATABASE_URL</key>
-	<string>https://receipe-6d31e.firebaseio.com</string>
+	<string>https://receipes-a8034.firebaseio.com</string>
 </dict>
 </plist>

@@ -15,8 +15,8 @@
 		040D0108236182790061F8A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040D0106236182790061F8A8 /* LaunchScreen.storyboard */; };
 		040D0113236182790061F8A8 /* ReceipesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040D0112236182790061F8A8 /* ReceipesTests.swift */; };
 		040D01212361876E0061F8A8 /* ReceipesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040D01202361876E0061F8A8 /* ReceipesCollectionViewCell.swift */; };
-		040D012323618CB80061F8A8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 040D012223618CB80061F8A8 /* GoogleService-Info.plist */; };
 		040D01262362008E0061F8A8 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 040D01252362008E0061F8A8 /* CategoryViewController.swift */; };
+		04588A7B24305F21001BE54B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04588A7A24305F21001BE54B /* GoogleService-Info.plist */; };
 		047874572362C26E00B5B06A /* CategoryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047874562362C26E00B5B06A /* CategoryTableViewCell.swift */; };
 		0478745A2362EFF800B5B06A /* ReceipeDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047874592362EFF800B5B06A /* ReceipeDetailViewController.swift */; };
 		0478745E2363069500B5B06A /* ReceipeDetailImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0478745D2363069500B5B06A /* ReceipeDetailImageCollectionViewCell.swift */; };
@@ -52,8 +52,8 @@
 		040D0112236182790061F8A8 /* ReceipesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceipesTests.swift; sourceTree = "<group>"; };
 		040D0114236182790061F8A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		040D01202361876E0061F8A8 /* ReceipesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceipesCollectionViewCell.swift; sourceTree = "<group>"; };
-		040D012223618CB80061F8A8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		040D01252362008E0061F8A8 /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
+		04588A7A24305F21001BE54B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		047874562362C26E00B5B06A /* CategoryTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTableViewCell.swift; sourceTree = "<group>"; };
 		047874592362EFF800B5B06A /* ReceipeDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceipeDetailViewController.swift; sourceTree = "<group>"; };
 		0478745D2363069500B5B06A /* ReceipeDetailImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReceipeDetailImageCollectionViewCell.swift; sourceTree = "<group>"; };
@@ -121,8 +121,8 @@
 				040D0104236182790061F8A8 /* Assets.xcassets */,
 				040D0106236182790061F8A8 /* LaunchScreen.storyboard */,
 				040D0109236182790061F8A8 /* Info.plist */,
-				040D012223618CB80061F8A8 /* GoogleService-Info.plist */,
 				040D0101236182780061F8A8 /* Receipes.xcdatamodeld */,
+				04588A7A24305F21001BE54B /* GoogleService-Info.plist */,
 			);
 			path = Receipes;
 			sourceTree = "<group>";
@@ -361,8 +361,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				040D0108236182790061F8A8 /* LaunchScreen.storyboard in Resources */,
+				04588A7B24305F21001BE54B /* GoogleService-Info.plist in Resources */,
 				040D0105236182790061F8A8 /* Assets.xcassets in Resources */,
-				040D012323618CB80061F8A8 /* GoogleService-Info.plist in Resources */,
 				040D0100236182780061F8A8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
